@@ -1,0 +1,38 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "classes/BIO30-AP",
+      "tag": "#bio30-ap",
+      "pattern": ""
+    },
+    {
+      "folder": "classes/SOC30",
+      "tag": "#soc30",
+      "pattern": ""
+    },
+    {
+      "folder": "classes/MATH31-AP",
+      "tag": "#math31-ap",
+      "pattern": ""
+    },
+    {
+      "folder": "classes/ELA30",
+      "tag": "#ela30",
+      "pattern": ""
+    },
+    {
+      "folder": "classes/CS30-AP",
+      "tag": "#cs30-ap",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

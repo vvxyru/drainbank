@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-vimrc-support",
-  "symbols-prettifier"
+  "symbols-prettifier",
+  "auto-note-mover"
 ]

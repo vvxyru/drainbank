@@ -6,5 +6,6 @@
   "textFontFamily": "Heuristica",
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": []
 }
