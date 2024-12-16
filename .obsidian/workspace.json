@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "root/hello.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -156,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba53d66ce5f08675",
+  "active": "23b8c4a4ddd16a03",
   "lastOpenFiles": [
     "classes",
     "root/hello.md",
