@@ -1,1 +1,15 @@
-{}
+{
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "vimMode": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "root",
+  "attachmentFolderPath": "./attatchments",
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "focusNewTab": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "theme": "moonstone",
+  "accentColor": "#313131",
+  "cssTheme": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "Heuristica",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "showViewHeader": true
+}
