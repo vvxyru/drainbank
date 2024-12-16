@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cdf594c9342b3a",
+        "id": "59c26e19ffc5c887",
         "type": "tabs",
         "children": [
           {
@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root/hello.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "README"
             }
           }
         ]
@@ -147,22 +147,22 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "23b8c4a4ddd16a03",
   "lastOpenFiles": [
-    "classes",
     "root/hello.md",
-    "root/daily-template.md",
+    "README.md",
+    "daily/121624.md",
     "root/poop2.md",
     "daily/121524.md",
+    "classes",
+    "root/daily-template.md",
     "daily/121524-0.md",
     "daily/121524-Sunday.md",
     "daily/121524-Sun.md",
