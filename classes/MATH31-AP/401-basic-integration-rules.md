@@ -11,6 +11,7 @@ aliases:
 Integration is the reverse operation for differentiation. 
 
 For any constant, the integral is as follows. 
+
 $$
 \int c\ \text{dx} = cx + C
 $$
@@ -21,11 +22,13 @@ $$
 
 
 When finding the integral of a variable raised to an exponent, the integral is as follows.
+
 $$
 \int x^n\, \text{dx} = \frac{x^{n+1}}{n + 1} + C
 $$
 
 If the variable has a constant being multiplied to it, simply perform the integration and simplify afterwards.
+
 $$
 \int cx^n\, \text{dx} = \frac{c \cdot x^{n+1}}{n + 1} + C
 $$
