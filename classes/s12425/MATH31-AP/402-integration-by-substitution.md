@@ -36,7 +36,7 @@ $$
 \int \sin{u} \ \frac{du}{3}
 $$
 
-After, we simply use the [integration principle of linearity ](401-basic-integration-rules)to remove the denominator of $du$, leaving us with a simple trigonometric integration rule.
+After, we simply use the [integration principle of linearity ](401-basic-integration-rules.md)to remove the denominator of $du$, leaving us with a simple trigonometric integration rule.
 
 $$
 \frac{1}{3} \int \sin{u} \ du = -\frac{1}{3}\cos{u} + C
@@ -46,6 +46,23 @@ Finally, substituting $u$ with $x^3$ stated earlier gives us the final integral.
 
 $$
 \int x^2 \sin{x^3} \ dx = -\frac{1}{3}\cos{x^3} + C
+$$
+
+### 1.01. Evaluating Definite Integrals with u-substitution
+
+For using u-substitution for definite integrals, change the lower and upper bounds by plugging each into the new equation of $u$. 
+
+$$
+\int\limits_0^4 4x \sqrt{16-x^2} \, dx = -2\int\limits_{16}^0 u^{1/2} \ du
+$$
+
+This was found by making $u$ equal to $16 - x^2$, and plugging in the lower and upper bounds into $u$.
+
+Then, to evaluate the new integral, subtract the integrated function with the upper limit as a replacement of $u$ by the function with the lower limit as the value of $u$. 
+
+$$
+\left(-\frac{4}{3}(0)^{3/2} \right) - \left(-\frac{4}{3}(16)^{3/2} \right) = 
+\frac{256}{3}
 $$
 
 ## 02. Integration by Parts

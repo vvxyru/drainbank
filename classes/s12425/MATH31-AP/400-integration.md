@@ -13,6 +13,7 @@ date: Sept 2024 - Jan 2024
 -  Indefinite integrals
 	- [[401-basic-integration-rules]]
 -  Integration by substitution (for indefinite and definite integrals)
+	- [[402-integration-by-substitution]]
 -  Rectangular and trapezoidal approximation methods for area under a curve
 -  Definition of area as a limit:  Riemann Sums
 -  Definite integrals

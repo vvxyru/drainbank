@@ -11,5 +11,6 @@
   "showInlineTitle": true,
   "focusNewTab": true,
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

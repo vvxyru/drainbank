@@ -4,27 +4,27 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "classes/BIO30-AP",
+      "folder": "classes/s22425/BIO30-AP",
       "tag": "#bio30-ap",
       "pattern": ""
     },
     {
-      "folder": "classes/SOC30",
+      "folder": "classes/s12425/SOC30",
       "tag": "#soc30",
       "pattern": ""
     },
     {
-      "folder": "classes/MATH31-AP",
+      "folder": "classes/s12425/MATH31-AP",
       "tag": "#math31-ap",
       "pattern": ""
     },
     {
-      "folder": "classes/ELA30",
+      "folder": "classes/s22425/ELA30",
       "tag": "#ela30",
       "pattern": ""
     },
     {
-      "folder": "classes/CS30-AP",
+      "folder": "classes/s12425/CS30-AP",
       "tag": "#cs30-ap",
       "pattern": ""
     }
