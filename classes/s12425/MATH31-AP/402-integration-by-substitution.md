@@ -23,11 +23,11 @@ First step is to replace a nested complicated expression with the variable of $u
 After this, we must change the integration to respect our substituted variable of $u$, so we must change $dx$ to $du$.
 
 $$
-\begin{align}
+\begin{align*}
 u &= x^3 \\
 du &= 3x^2 \\
 \frac{du}{3x^2} &= dx
-\end{align}
+\end{align*}
 $$
 
 With this, simply substituting in the respective values of $x^3$ and $dx$ will simplify the integral.
@@ -52,9 +52,9 @@ $$
 
 For using u-substitution for definite integrals, change the lower and upper bounds by plugging each into the new equation of $u$. 
 
-For this, we are going to use [[405-definite-integralas]]
-
+For this, we are going to use [substitution of definite integrals](405-definite-integrals)
 $$
+
 \int\limits_0^4 4x \sqrt{16-x^2} \, dx = -2\int\limits_{16}^0 u^{1/2} \ du
 $$
 

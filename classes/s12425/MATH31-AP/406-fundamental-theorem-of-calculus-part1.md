@@ -15,4 +15,3 @@ $$
 $$
 
 This theorem is the same principles used in [[402-integration-by-substitution|402. Integration by Substitution]].
-
