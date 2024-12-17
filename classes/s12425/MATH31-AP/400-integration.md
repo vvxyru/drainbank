@@ -18,3 +18,4 @@ date: Sept 2024 - Jan 2024
 -  Definition of area as a limit:  Riemann Sums
 -  Definite integrals
 -  Fundamental Theorem of Part I and Part II
+	- [[406-fundamental-theorem-of-calculus-part1]]

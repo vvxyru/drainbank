@@ -52,6 +52,8 @@ $$
 
 For using u-substitution for definite integrals, change the lower and upper bounds by plugging each into the new equation of $u$. 
 
+For this, we are going to use [[405-definite-integralas]]
+
 $$
 \int\limits_0^4 4x \sqrt{16-x^2} \, dx = -2\int\limits_{16}^0 u^{1/2} \ du
 $$
@@ -59,6 +61,8 @@ $$
 This was found by making $u$ equal to $16 - x^2$, and plugging in the lower and upper bounds into $u$.
 
 Then, to evaluate the new integral, subtract the integrated function with the upper limit as a replacement of $u$ by the function with the lower limit as the value of $u$. 
+
+This is the [[406-fundamental-theorem-of-calculus-part1|406. Fundamental Theorem of Calculus (Part 1)]].
 
 $$
 \left(-\frac{4}{3}(0)^{3/2} \right) - \left(-\frac{4}{3}(16)^{3/2} \right) = 

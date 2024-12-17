@@ -1,9 +1,6 @@
 ---
 source: https://github.com/pythops/bluetui
 ---
-
-source: https://github.com/pythops/bluetui
----
 ## Basic Navigation
 
 `?` - Show help
