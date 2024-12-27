@@ -114,3 +114,17 @@ Now, all there is left to do is to simplify the equation.
 $$
 \int x \cos{x} \, dx = x \sin{x} + \cos{x} + C
 $$
+
+
+$$
+\int \sin{x} = -\cos{x}
+$$
+
+
+
+
+
+
+
+
+
