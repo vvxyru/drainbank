@@ -19,4 +19,4 @@ $$
 \int_a^b f(g(x))\,g'(x)\,dx = \int_{g(a)}^{g(b)}f(u)\,du
 $$
 
-This example is used in [integration by substitution](402-integration-by-substitution)
+This example is used in [integration by substitution](402-integration-by-substitution.md)

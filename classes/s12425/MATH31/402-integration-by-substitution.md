@@ -52,7 +52,7 @@ $$
 
 For using u-substitution for definite integrals, change the lower and upper bounds by plugging each into the new equation of $u$. 
 
-For this, we are going to use [substitution of definite integrals](405-definite-integrals)
+For this, we are going to use [substitution of definite integrals](405-definite-integrals.md)
 $$
 
 \int\limits_0^4 4x \sqrt{16-x^2} \, dx = -2\int\limits_{16}^0 u^{1/2} \ du
