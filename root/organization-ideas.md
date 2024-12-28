@@ -1,3 +1,8 @@
+---
+aliases: []
+tags: []
+---
+
 for classes make each outcome a separate ## header
 
 ex

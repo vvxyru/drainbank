@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-vimrc-support",
   "symbols-prettifier",
-  "auto-note-mover"
+  "auto-note-mover",
+  "obsidian42-brat",
+  "obsidian-local-rest-api-with-scroll"
 ]
