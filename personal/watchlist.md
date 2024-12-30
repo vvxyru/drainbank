@@ -5,5 +5,6 @@ tags: []
 ---
 
 - Black Narcissus (1947)
-- The seventh seal (1957)
+- The Seventh Seal (1957)
 - Gone girl
+- Late night with the devil
