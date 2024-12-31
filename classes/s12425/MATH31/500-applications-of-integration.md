@@ -7,8 +7,9 @@ tags:
 ## Outcomes 
 
 - Areas between curves
-	- [[500-areas-between-curves]]
+	- [[501-area-between-curves]]
 - Volumes perpendicular to given axis
+    - [[502-volumes-perpendicular-to-given-axis]]
 - Volumes of revolution
 - Integration by parts
 - Integration by partial fractions

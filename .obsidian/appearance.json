@@ -4,9 +4,10 @@
   "cssTheme": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "CMU Serif",
-  "interfaceFontFamily": "CMU Serif",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "enabledCssSnippets": [],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 18
 }
