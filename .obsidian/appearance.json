@@ -3,9 +3,10 @@
   "accentColor": "#313131",
   "cssTheme": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "CMU Serif",
+  "interfaceFontFamily": "CMU Serif",
   "baseFontSizeAction": true,
   "showViewHeader": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "nativeMenus": false
 }
