@@ -11,6 +11,7 @@ tags:
 - Volumes perpendicular to given axis
     - [[502-volumes-perpendicular-to-given-axis]]
 - Volumes of revolution
+    - [[503-volumes-of-revolution]]
 - Integration by parts
 - Integration by partial fractions
 

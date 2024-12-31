@@ -1,8 +1,9 @@
 ---
-tags:
-  - math31-ap
+id: 402-integration-by-substitution
 aliases:
   - 402. Integration by Substitution
+tags:
+  - math31-ap
 ---
 # 402. Integration by Substitution
 

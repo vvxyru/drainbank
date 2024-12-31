@@ -73,9 +73,18 @@ In the example above, the formulas will be:
 
 $$
 \begin{aligned}
-V &= \int_{a}^{} f(x)dx\\
+V &= \int_{0}^{1} A(x)dx \\\\
+A(x) &= s^2 \\
+s &= (\sqrt{x}-x)
 \end{aligned}
 $$
+
+From here, it is a simple substitution and integration for the volume.
+
+$$
+V = \frac{9}{70} \text{units}^3
+$$
+
 
 
 
