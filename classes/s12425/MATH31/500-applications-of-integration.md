@@ -13,5 +13,6 @@ tags:
 - Volumes of revolution
     - [[503-volumes-of-revolution]]
 - Integration by parts
+    - [[504-integration-by-parts]]
 - Integration by partial fractions
 
